@@ -1,0 +1,28 @@
+name: olphparish
+favicon: null
+layout_spectrum: 0.83941266592592
+typography_spectrum: 0.5459355090279132
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.9938405498396605
+  lightness: 0.5073704314418137
+  saturation: 0.44902520813047886
+  rhythmicContrast: 0.09098358661867678
+purpose: []
